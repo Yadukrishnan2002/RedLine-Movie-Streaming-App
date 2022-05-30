@@ -136,25 +136,73 @@ Lets me just walkthrough the APP to give a better idea on it
    <img src = "https://drive.google.com/uc?export=view&id=1MU5phNKckowyn3269bZqX7CDbt6m5oAV" width = 250 height = 500 >
     </p>
 
-    b. Watchlist Button
+   b. Watchlist Button
+   
+   <p align = "center">
+   <img src = "https://drive.google.com/uc?export=view&id=1QmzL7d9xCs2HXJQyIthwMeCSSth0a-sL" width = 250 height = 500 >
+    </p>
 
-    c. Similar Movies
+   c. Similar Movies
+   
+   <p align = "center">
+   <img src = "https://drive.google.com/uc?export=view&id=1pDYutjoRgvVYBxpiPmkl1MBPUo0pcGKq" width = 250 height = 500 >
+    </p>
 
-    d. Rating a Movie
+   d. Rating a Movie
+   
+   <p align = "center">
+   <img src = "https://drive.google.com/uc?export=view&id=1ShWJ2rCDZEB0vc0bikg3xSQGnla9xzsv" width = 250 height = 500 >
+    </p>
+
+   
+   
 
 5. Recommended Movies
 
+<p align = "center">
+   <img src = "https://drive.google.com/uc?export=view&id=1EiVATDQBFg_tm0FY88UD4AvXY4Yi5dir" width = 250 height = 500 >
+    </p>
+
 6. Adding Movies to Watchlist
+
+<p align = "center">
+   <img src = "https://drive.google.com/uc?export=view&id=1Fkv7XO5YpbBlGxsm6R7PzuENfvD1joqn" width = 250 height = 500 >
+    </p>
 
 7. Watchlist Screen
 
+<p align = "center">
+   <img src = "https://drive.google.com/uc?export=view&id=1Yjj-BawZnj0BOoIXFylAOgfIfaoqOCkC" width = 250 height = 500 >
+    </p>
+
 8. Removing Movie from Watchlist
+
+<p align = "center">
+   <img src = "https://drive.google.com/uc?export=view&id=1li8q-gb95BaY4YKZeBDGla_sVaQHgfXw" width = 250 height = 500 >
+    </p>
 
 9. Group Watch
 
-    a. Group Chat functionality 
+<p align = "center">
+   <img src = "https://drive.google.com/uc?export=view&id=1rNWDPSiDDv7YQ9ZTKVXEeWzJddxLBvjR" width = 250 height = 500 >
+    </p>
+    
+    
+   <p align = "center">
+   <img src = "https://drive.google.com/uc?export=view&id=1zc0eiBnD_1qcqnXaeU49OpyS82NIFbsS" width = 250 height = 500 >
+    </p>
+    
+   a. Group Chat functionality 
+   
+   <p align = "center">
+   <img src = "https://drive.google.com/uc?export=view&id=1UAGR_Jcah0KKz9rDUrZxx3-w0qG2XsI7" width = 250 height = 500 >
+    </p>
 
-    b. Group Play functionality
+   b. Group Play functionality
+   
+   <p align = "center">
+   <img src = "https://drive.google.com/uc?export=view&id=1zc0eiBnD_1qcqnXaeU49OpyS82NIFbsS" width = 250 height = 500 >
+    </p>
 
 10. Profile Screen
 
