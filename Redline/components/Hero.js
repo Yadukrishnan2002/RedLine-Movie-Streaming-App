@@ -154,6 +154,8 @@ const Hero = ({user,TrendingNo1}) => {
                     navigation.navigate("ViewMovie",{
                         id: TrendingNo1.data.id,
                         watchCountTemp: TrendingNo1.data.watchCount,
+                        CurrentMovieName: TrendingNo1.data.name,
+                        user: user,
                     })
                 }}>
                     <Ionicons name = "ios-play" size = {26} color = "white"/>
