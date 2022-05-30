@@ -145,7 +145,7 @@ Lets me just walkthrough the APP to give a better idea on it
    c. Similar Movies
    
    <p align = "center">
-   <img src = "https://drive.google.com/uc?export=view&id=1pDYutjoRgvVYBxpiPmkl1MBPUo0pcGKq" width = 250 height = 500 >
+   <img src = "https://drive.google.com/uc?export=view&id=1pDYutjoRgvVYBxpiPmkl1MBPUo0pcGKq" width = 125 height = 250 >
     </p>
 
    d. Rating a Movie
