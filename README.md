@@ -207,13 +207,13 @@ Lets me just walkthrough the APP to give a better idea on it
 10. Profile Screen
 
 <p align = "center">
-   <img src = "/Gif/1.gif" >
+   <img src = "/Gif/1.gif"  width = 250 height = 500 >
     </p>
 
 11. Logging Out
 
 <p align = "center">
-   <img src = "/Gif/2.gif" >
+   <img src = "/Gif/2.gif"  width = 250 height = 500>
     </p>
 
 
