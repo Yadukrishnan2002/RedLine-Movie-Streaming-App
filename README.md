@@ -119,7 +119,7 @@ Lets me just walkthrough the APP to give a better idea on it
 3. Home Screen
 
   <p align = "center">
-  <img src = "https://drive.google.com/uc?export=view&id=1AEXLb1TF_tUBjhKnbJLZjTws4fYN_zmo" width = 500 height = 1000 >
+  <img src = "https://drive.google.com/uc?export=view&id=1AEXLb1TF_tUBjhKnbJLZjTws4fYN_zmo" width = 500 height = 500 >
   </p>
 
 4. Viewing a Movie
