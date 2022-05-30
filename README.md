@@ -92,8 +92,9 @@ Lets me just walkthrough the APP to give a better idea on it
 
 1. Login Screen 
 
+<p align = "center">
 <img src="https://drive.google.com/uc?export=view&id=105HcCT4Gq-Sqa18PqPw2w2FtPHAOvFiY" width = 500 height = 1000 align = "center">
-   
+</p>
 
 2. Sign Up Screen
 
