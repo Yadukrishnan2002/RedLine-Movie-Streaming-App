@@ -201,7 +201,7 @@ Lets me just walkthrough the APP to give a better idea on it
    b. Group Play functionality
    
    <p align = "center">
-   <img src = "https://drive.google.com/uc?export=view&id=1zc0eiBnD_1qcqnXaeU49OpyS82NIFbsS" >
+   <img src = "https://drive.google.com/uc?export=view&id=1UAGR_Jcah0KKz9rDUrZxx3-w0qG2XsI7" >
     </p>
 
 10. Profile Screen
