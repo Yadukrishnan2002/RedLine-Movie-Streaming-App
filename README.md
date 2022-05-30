@@ -145,7 +145,7 @@ Lets me just walkthrough the APP to give a better idea on it
    c. Similar Movies
    
    <p align = "center">
-   <img src = "https://drive.google.com/uc?export=view&id=1pDYutjoRgvVYBxpiPmkl1MBPUo0pcGKq" >
+   <img src = "/Gif/Screen_Recording_2022-05-30_at_5_15_06_PM_AdobeCreativeCloudExpress.gif" >
     </p>
 
    d. Rating a Movie
@@ -160,13 +160,13 @@ Lets me just walkthrough the APP to give a better idea on it
 5. Recommended Movies
 
 <p align = "center">
-   <img src = "https://drive.google.com/uc?export=view&id=1EiVATDQBFg_tm0FY88UD4AvXY4Yi5dir"  >
+   <img src = "/Gif/Screen_Recording_2022-05-30_at_5_20_41_PM_AdobeCreativeCloudExpress.gif"  >
     </p>
 
 6. Adding Movies to Watchlist
 
 <p align = "center">
-   <img src = "https://drive.google.com/uc?export=view&id=1Fkv7XO5YpbBlGxsm6R7PzuENfvD1joqn" >
+   <img src = "/Gif/Screen_Recording_2022-05-30_at_5_23_40_PM_AdobeCreativeCloudExpress_AdobeCreativeCloudExpress.gif" >
     </p>
 
 7. Watchlist Screen
@@ -189,19 +189,19 @@ Lets me just walkthrough the APP to give a better idea on it
     
     
    <p align = "center">
-   <img src = "https://drive.google.com/uc?export=view&id=1zc0eiBnD_1qcqnXaeU49OpyS82NIFbsS"  >
+   <img src = "/Gif/Screen_Recording_2022-05-30_at_5_32_30_PM_AdobeCreativeCloudExpress.gif"  >
     </p>
     
    a. Group Chat functionality 
    
    <p align = "center">
-   <img src = "https://drive.google.com/uc?export=view&id=1UAGR_Jcah0KKz9rDUrZxx3-w0qG2XsI7"  >
+   <img src = "/Gif/"  >
     </p>
 
    b. Group Play functionality
    
    <p align = "center">
-   <img src = "https://drive.google.com/uc?export=view&id=1UAGR_Jcah0KKz9rDUrZxx3-w0qG2XsI7" >
+   <img src = "/Gif/Screen_Recording_2022-05-30_at_5_36_41_PM_AdobeCreativeCloudExpress.gif" >
     </p>
 
 10. Profile Screen
