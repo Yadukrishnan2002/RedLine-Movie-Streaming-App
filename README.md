@@ -97,6 +97,24 @@ Lets me just walkthrough the APP to give a better idea on it
 </p>
 
 2. Sign Up Screen
+  
+  <p align = "center">
+   <img src="https://drive.google.com/uc?export=view&id=1yPVtB9H9OoZ2IGaxt0D7sdmPSi3J0ShQ" width = 500 height = 1000 >
+  </p>
+  
+  
+  Here I have given some basic details and creating a new account 
+  
+  <p align = "center">
+  <img src = "https://drive.google.com/uc?export=view&id=1FhExg9qCL02GEfzJQukrBX02H-swOCXN" width = 500 height = 1000 >
+  </p>
+  
+  
+  After Signing up, will take the user to Home screen
+  
+  <p align = "center">
+  <img src = "https://drive.google.com/uc?export=view&id=1t4Vi8lfUgTIt7vIIkMKmne8Tvk3gFj3z" width = 500 height = 1000 >
+  </p>
 
 3. Home Screen
 
