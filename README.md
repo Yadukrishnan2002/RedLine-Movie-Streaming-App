@@ -131,6 +131,10 @@ Lets me just walkthrough the APP to give a better idea on it
   
 
     a. Playing a Movie
+    
+      <p align = "center">
+      <img src = "https://drive.google.com/uc?export=view&id=1MU5phNKckowyn3269bZqX7CDbt6m5oAV" width = 250 height = 500 >
+       </p>
 
     b. Watchlist Button
 
