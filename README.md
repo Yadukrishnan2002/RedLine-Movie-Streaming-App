@@ -119,7 +119,7 @@ Lets me just walkthrough the APP to give a better idea on it
 3. Home Screen
 
   <p align = "center">
-  <img src = "https://drive.google.com/uc?export=view&id=1AEXLb1TF_tUBjhKnbJLZjTws4fYN_zmo" width = 250 height = 500 >
+  <img src = "/Gif/Screen_Recording_2022-05-30_at_5_06_30_PM_AdobeCreativeCloudExpress.gif" >
   </p>
 
 4. Viewing a Movie
@@ -206,8 +206,15 @@ Lets me just walkthrough the APP to give a better idea on it
 
 10. Profile Screen
 
+<p align = "center">
+   <img src = "/Gif/1.gif" >
+    </p>
+
 11. Logging Out
 
+<p align = "center">
+   <img src = "/Gif/2.gif" >
+    </p>
 
 
 ## Contact
