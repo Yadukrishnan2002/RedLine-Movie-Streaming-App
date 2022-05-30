@@ -119,7 +119,7 @@ Lets me just walkthrough the APP to give a better idea on it
 3. Home Screen
 
   <p align = "center">
-  <img src = "/Gif/Screen_Recording_2022-05-30_at_5_06_30_PM_AdobeCreativeCloudExpress.gif" >
+  <img src = "/Gif/Screen_Recording_2022-05-31_at_12_12_31_AM_AdobeCreativeCloudExpress.gif"  width = 250 height = 500>
   </p>
 
 4. Viewing a Movie
@@ -195,7 +195,7 @@ Lets me just walkthrough the APP to give a better idea on it
    a. Group Chat functionality 
    
    <p align = "center">
-   <img src = "/Gif/"  >
+   <img src = "/Gif/Screen_Recording_2022-05-31_at_12_15_14_AM_AdobeCreativeCloudExpress.gif"  >
     </p>
 
    b. Group Play functionality
