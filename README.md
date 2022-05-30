@@ -145,13 +145,13 @@ Lets me just walkthrough the APP to give a better idea on it
    c. Similar Movies
    
    <p align = "center">
-   <img src = "/Gif/Screen_Recording_2022-05-30_at_5_15_06_PM_AdobeCreativeCloudExpress.gif" >
+   <img src = "/Gif/Screen_Recording_2022-05-30_at_5_15_06_PM_AdobeCreativeCloudExpress.gif"  width = 250 height = 500>
     </p>
 
    d. Rating a Movie
    
    <p align = "center">
-   <img src = "/Gif/Screen_Recording_2022-05-30_at_5_15_59_PM_AdobeCreativeCloudExpress.gif" >
+   <img src = "/Gif/Screen_Recording_2022-05-30_at_5_15_59_PM_AdobeCreativeCloudExpress.gif"  width = 250 height = 500>
     </p>
 
    
@@ -160,13 +160,13 @@ Lets me just walkthrough the APP to give a better idea on it
 5. Recommended Movies
 
 <p align = "center">
-   <img src = "/Gif/Screen_Recording_2022-05-30_at_5_20_41_PM_AdobeCreativeCloudExpress.gif"  >
+   <img src = "/Gif/Screen_Recording_2022-05-30_at_5_20_41_PM_AdobeCreativeCloudExpress.gif"   width = 250 height = 500>
     </p>
 
 6. Adding Movies to Watchlist
 
 <p align = "center">
-   <img src = "/Gif/Screen_Recording_2022-05-30_at_5_23_40_PM_AdobeCreativeCloudExpress_AdobeCreativeCloudExpress.gif" >
+   <img src = "/Gif/Screen_Recording_2022-05-30_at_5_23_40_PM_AdobeCreativeCloudExpress_AdobeCreativeCloudExpress.gif"  width = 250 height = 500>
     </p>
 
 7. Watchlist Screen
@@ -189,7 +189,7 @@ Lets me just walkthrough the APP to give a better idea on it
     
     
    <p align = "center">
-   <img src = "/Gif/Screen_Recording_2022-05-30_at_5_32_30_PM_AdobeCreativeCloudExpress.gif"  >
+   <img src = "/Gif/Screen_Recording_2022-05-30_at_5_32_30_PM_AdobeCreativeCloudExpress.gif"   >
     </p>
     
    a. Group Chat functionality 
