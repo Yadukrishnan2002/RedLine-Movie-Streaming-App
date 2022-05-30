@@ -151,7 +151,7 @@ Lets me just walkthrough the APP to give a better idea on it
    d. Rating a Movie
    
    <p align = "center">
-   <img src = "https://drive.google.com/uc?export=view&id=1ShWJ2rCDZEB0vc0bikg3xSQGnla9xzsv" width = 250 height = 500 >
+   <img src = "/Gif/Screen_Recording_2022-05-30_at_5_15_59_PM_AdobeCreativeCloudExpress.gif" >
     </p>
 
    
