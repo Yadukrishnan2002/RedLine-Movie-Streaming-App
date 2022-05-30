@@ -145,7 +145,7 @@ Lets me just walkthrough the APP to give a better idea on it
    c. Similar Movies
    
    <p align = "center">
-   <img src = "https://drive.google.com/uc?export=view&id=1pDYutjoRgvVYBxpiPmkl1MBPUo0pcGKq" width = 125 height = 250 >
+   <img src = "https://drive.google.com/uc?export=view&id=1pDYutjoRgvVYBxpiPmkl1MBPUo0pcGKq" >
     </p>
 
    d. Rating a Movie
@@ -160,13 +160,13 @@ Lets me just walkthrough the APP to give a better idea on it
 5. Recommended Movies
 
 <p align = "center">
-   <img src = "https://drive.google.com/uc?export=view&id=1EiVATDQBFg_tm0FY88UD4AvXY4Yi5dir" width = 250 height = 500 >
+   <img src = "https://drive.google.com/uc?export=view&id=1EiVATDQBFg_tm0FY88UD4AvXY4Yi5dir"  >
     </p>
 
 6. Adding Movies to Watchlist
 
 <p align = "center">
-   <img src = "https://drive.google.com/uc?export=view&id=1Fkv7XO5YpbBlGxsm6R7PzuENfvD1joqn" width = 250 height = 500 >
+   <img src = "https://drive.google.com/uc?export=view&id=1Fkv7XO5YpbBlGxsm6R7PzuENfvD1joqn" >
     </p>
 
 7. Watchlist Screen
@@ -184,24 +184,24 @@ Lets me just walkthrough the APP to give a better idea on it
 9. Group Watch
 
 <p align = "center">
-   <img src = "https://drive.google.com/uc?export=view&id=1rNWDPSiDDv7YQ9ZTKVXEeWzJddxLBvjR" width = 250 height = 500 >
+   <img src = "https://drive.google.com/uc?export=view&id=1rNWDPSiDDv7YQ9ZTKVXEeWzJddxLBvjR"  >
     </p>
     
     
    <p align = "center">
-   <img src = "https://drive.google.com/uc?export=view&id=1zc0eiBnD_1qcqnXaeU49OpyS82NIFbsS" width = 250 height = 500 >
+   <img src = "https://drive.google.com/uc?export=view&id=1zc0eiBnD_1qcqnXaeU49OpyS82NIFbsS"  >
     </p>
     
    a. Group Chat functionality 
    
    <p align = "center">
-   <img src = "https://drive.google.com/uc?export=view&id=1UAGR_Jcah0KKz9rDUrZxx3-w0qG2XsI7" width = 250 height = 500 >
+   <img src = "https://drive.google.com/uc?export=view&id=1UAGR_Jcah0KKz9rDUrZxx3-w0qG2XsI7"  >
     </p>
 
    b. Group Play functionality
    
    <p align = "center">
-   <img src = "https://drive.google.com/uc?export=view&id=1zc0eiBnD_1qcqnXaeU49OpyS82NIFbsS" width = 250 height = 500 >
+   <img src = "https://drive.google.com/uc?export=view&id=1zc0eiBnD_1qcqnXaeU49OpyS82NIFbsS" >
     </p>
 
 10. Profile Screen
