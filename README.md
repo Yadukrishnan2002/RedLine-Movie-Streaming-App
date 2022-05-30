@@ -93,33 +93,33 @@ Lets me just walkthrough the APP to give a better idea on it
 1. Login Screen 
 
 <p align = "center">
-<img src="https://drive.google.com/uc?export=view&id=105HcCT4Gq-Sqa18PqPw2w2FtPHAOvFiY" width = 500 height = 1000 align = "center">
+<img src="https://drive.google.com/uc?export=view&id=105HcCT4Gq-Sqa18PqPw2w2FtPHAOvFiY" width = 250 height = 500 align = "center">
 </p>
 
 2. Sign Up Screen
   
   <p align = "center">
-   <img src="https://drive.google.com/uc?export=view&id=1yPVtB9H9OoZ2IGaxt0D7sdmPSi3J0ShQ" width = 500 height = 1000 >
+   <img src="https://drive.google.com/uc?export=view&id=1yPVtB9H9OoZ2IGaxt0D7sdmPSi3J0ShQ" width = 250 height = 500 >
   </p>
   
   
   Here I have given some basic details and creating a new account 
   
   <p align = "center">
-  <img src = "https://drive.google.com/uc?export=view&id=1FhExg9qCL02GEfzJQukrBX02H-swOCXN" width = 500 height = 1000 >
+  <img src = "https://drive.google.com/uc?export=view&id=1FhExg9qCL02GEfzJQukrBX02H-swOCXN" width = 250 height = 500 >
   </p>
   
   
   After Signing up, will take the user to Home screen
   
   <p align = "center">
-  <img src = "https://drive.google.com/uc?export=view&id=1t4Vi8lfUgTIt7vIIkMKmne8Tvk3gFj3z" width = 500 height = 1000 >
+  <img src = "https://drive.google.com/uc?export=view&id=1t4Vi8lfUgTIt7vIIkMKmne8Tvk3gFj3z" width = 250 height = 500 >
   </p>
 
 3. Home Screen
 
   <p align = "center">
-  <img src = "https://drive.google.com/uc?export=view&id=1AEXLb1TF_tUBjhKnbJLZjTws4fYN_zmo" width = 500 height = 500 >
+  <img src = "https://drive.google.com/uc?export=view&id=1AEXLb1TF_tUBjhKnbJLZjTws4fYN_zmo" width = 250 height = 500 >
   </p>
 
 4. Viewing a Movie
