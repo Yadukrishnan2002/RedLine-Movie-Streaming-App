@@ -184,7 +184,7 @@ Lets me just walkthrough the APP to give a better idea on it
 9. Group Watch
 
 <p align = "center">
-   <img src = "https://drive.google.com/uc?export=view&id=1rNWDPSiDDv7YQ9ZTKVXEeWzJddxLBvjR"  >
+   <img src = "/Gif/Screen_Recording_2022-05-30_at_5_31_34_PM_AdobeCreativeCloudExpress.gif"  >
     </p>
     
     
