@@ -179,7 +179,7 @@ Lets me just walkthrough the APP to give a better idea on it
    <img src = "/Gif/Screen_Recording_2022-05-30_at_5_15_59_PM_AdobeCreativeCloudExpress.gif"  width = 250 height = 500>
     </p>
 
- <I> NOTE: If a user watches a movie and forgets to provide rating to that movie, then a nuetral rating score will be automatically taken by the app to provide nuetral recommendations to the user <I/>
+ <I> NOTE: If a user watches a movie and forgets to provide rating to that movie, then a nuetral rating score will be automatically taken by the app to provide nuetral recommendations to the user </I>
    
 5. Searching for a Movie
   
