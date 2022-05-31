@@ -183,7 +183,7 @@ Lets me just walkthrough the APP to give a better idea on it
    
 5. Searching for a Movie
   
-  The user can search for a movie he/she wishes to watch. The search algorithm is so effiecient that the user does not have to provide the entire name of the movie, just the name snippet is quite enough for providing the results for the searched movie.
+  The user can search for a movie he/she wishes to watch. The search algorithm is so efficient that the user does not have to provide the entire name of the movie, just the name snippet is quite enough for providing the results for the searched movie.
 
  <p align = "center">
    <img src = "/Gif/Screen_Recording_2022-05-30_at_7_52_31_PM_AdobeCreativeCloudExpress_AdobeCreativeCloudExpress.gif"  width = 250 height = 500>
