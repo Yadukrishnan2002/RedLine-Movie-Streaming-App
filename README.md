@@ -99,7 +99,7 @@ Lets me just walkthrough the APP to give a better idea on it
 2. Sign Up Screen
   
   <p align = "center">
-   <img src="https://drive.google.com/uc?export=view&id=1yPVtB9H9OoZ2IGaxt0D7sdmPSi3J0ShQ" width = 250 height = 500 >
+   <img src="/Gif/Screen_Recording_2022-05-30_at_5_00_38_PM_AdobeCreativeCloudExpress.gif" width = 250 height = 500 >
   </p>
   
   
@@ -155,33 +155,38 @@ Lets me just walkthrough the APP to give a better idea on it
     </p>
 
    
-   
+5. Searching for a Movie
 
-5. Recommended Movies
+ <p align = "center">
+   <img src = "/Gif/Screen_Recording_2022-05-30_at_7_52_31_PM_AdobeCreativeCloudExpress_AdobeCreativeCloudExpress.gif"  width = 250 height = 500>
+    </p>
+ 
+
+6. Recommended Movies
 
 <p align = "center">
    <img src = "/Gif/Screen_Recording_2022-05-30_at_5_20_41_PM_AdobeCreativeCloudExpress.gif"   width = 250 height = 500>
     </p>
 
-6. Adding Movies to Watchlist
+7. Adding Movies to Watchlist
 
 <p align = "center">
    <img src = "/Gif/Screen_Recording_2022-05-30_at_5_23_40_PM_AdobeCreativeCloudExpress_AdobeCreativeCloudExpress.gif"  width = 250 height = 500>
     </p>
 
-7. Watchlist Screen
+8. Watchlist Screen
 
 <p align = "center">
    <img src = "https://drive.google.com/uc?export=view&id=1Yjj-BawZnj0BOoIXFylAOgfIfaoqOCkC" width = 250 height = 500 >
     </p>
 
-8. Removing Movie from Watchlist
+9. Removing Movie from Watchlist
 
 <p align = "center">
    <img src = "https://drive.google.com/uc?export=view&id=1li8q-gb95BaY4YKZeBDGla_sVaQHgfXw" width = 250 height = 500 >
     </p>
 
-9. Group Watch
+10. Group Watch
 
 <p align = "center">
    <img src = "/Gif/Screen_Recording_2022-05-30_at_5_31_34_PM_AdobeCreativeCloudExpress.gif"  >
@@ -204,13 +209,13 @@ Lets me just walkthrough the APP to give a better idea on it
    <img src = "/Gif/Screen_Recording_2022-05-30_at_5_36_41_PM_AdobeCreativeCloudExpress.gif" >
     </p>
 
-10. Profile Screen
+11. Profile Screen
 
 <p align = "center">
    <img src = "/Gif/1.gif"  width = 250 height = 500 >
     </p>
 
-11. Logging Out
+12. Logging Out
 
 <p align = "center">
    <img src = "/Gif/2.gif"  width = 250 height = 500>
