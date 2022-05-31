@@ -194,12 +194,12 @@ Lets me just walkthrough the APP to give a better idea on it
   
   To show how recommendations work, the user should watch and rate some movies. So in this case the user has watched the below mentioned movies and provided the respective ratings to it
   
-  <I> Note: Considering the user is an action movie lover </I>
+  <I> Note: Considering the user is an action movie lover</I>
   
-  Spider-Man No Way Home -- 4/5 (Action/Superhero)
-  Avengers: End Game     -- 4/5 (Action/Superhero)
-  John Wick 3            -- 4/5 (Action)
-  Me before you          -- 1/5 (Romance)
+  Spider-Man No Way Home -- 4/5 (Action/Superhero) <br />
+  Avengers: End Game     -- 4/5 (Action/Superhero) <br />
+  John Wick 3            -- 4/5 (Action) <br />
+  Me before you          -- 1/5 (Romance) <br />
   
   <I>Backend: Movie names along with ratings will be provided to ML model and the model will then rank the movies and give back the result in ascending order(w.r.t rank) to the app</I>
   
