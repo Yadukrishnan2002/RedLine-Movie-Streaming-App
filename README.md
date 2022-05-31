@@ -201,7 +201,7 @@ Lets me just walkthrough the APP to give a better idea on it
   John Wick 3            -- 4/5 (Action)
   Me before you          -- 1/5 (Romance)
   
-  <I>Backend: Movie names along with ratings will be provided to ML model and the model will then rank the movies and give back the result in ascending order(w.r.t rank) to the app </I>
+  <I>Backend: Movie names along with ratings will be provided to ML model and the model will then rank the movies and give back the result in ascending order(w.r.t rank) to the app</I>
   
   So based on the above ratings the below shown are the recommended movies for this particular user. 
 
@@ -236,7 +236,7 @@ Lets me just walkthrough the APP to give a better idea on it
 
   
   
-  First of all you have to select a particular movie, In this case we are choosing Spider-Man No Way Home
+  First of all the user have to select a particular movie, In this case we are choosing Spider-Man No Way Home
   
 <p align = "center">
    <img src = "/Gif/Screen_Recording_2022-05-30_at_5_31_34_PM_AdobeCreativeCloudExpress.gif"  >
