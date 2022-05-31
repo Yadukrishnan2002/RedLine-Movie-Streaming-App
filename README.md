@@ -118,6 +118,16 @@ Lets me just walkthrough the APP to give a better idea on it
 
 3. Home Screen
 
+  Here currently in the Home Screen, there are two sections 
+  TOP 10 Trending and Superhero Movies
+    
+  Top 10 Tredning section shows the most watched movie in a week and is arranged in the descending order. Here Spider-Man No way home has highest view
+  count in this particular week. That is why it's in the top position and is also in the cover page of the Redline App. 
+  
+  <I> Note: View count is calculated based on the Total view count of a particular movie by distinctive users. If a single user watches a particular movie for more than one time, only the inital count will taken for the evaluation.  </I>
+  
+  
+  
   <p align = "center">
   <img src = "/Gif/Screen_Recording_2022-05-31_at_12_12_31_AM_AdobeCreativeCloudExpress.gif"  width = 250 height = 500>
   </p>
